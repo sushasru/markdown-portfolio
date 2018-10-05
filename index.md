@@ -2,20 +2,26 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# Susha Subramaniaru #
 
 <br>
 
-{% include 02-image.md %}
+![image of spidertocat](https://octodex.github.com/spidertocat.png)
 
 <br>
 
-{% include 03-links.md %}
+![Profile URL](https://github.com/sushasru/)
 
 <br>
 
-{% include 04-lists.md %}
+My **favorite** things
+ 1. Ice Cream
+    - Chocolate
+    - Vanila
+    - Strawberry
+ 2. Cheesecake
+ 3. Peacan Pie
 
 <br>
 
-{% include 05-emphasis.md %}
+I *LOVE* **GitHub**
