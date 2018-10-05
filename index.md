@@ -2,5 +2,13 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# Susha Subramaniaru
+
+<br>
+
+![Image of spidertocat](https://octodex.github.com/images/spidertocat.png)
+
+<br>
+
+![GitHub Profile URL](https://github.com/sushasru)
 
