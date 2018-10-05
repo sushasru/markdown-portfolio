@@ -1,1 +1,1 @@
-![Image of spidertocat](https://octodex.github.com/spidertocat.png)
+![Image of spidertocat](https://octodex.github.com/images/spidertocat.png)
