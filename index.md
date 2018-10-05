@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Susha Subramaniaru #
+## trying out lists ##
 
 <br>
 
@@ -10,7 +10,7 @@ layout: default
 
 <br>
 
-![Profile URL](https://github.com/sushasru/)
+![GitHub URL](https://github.com/)
 
 <br>
 
