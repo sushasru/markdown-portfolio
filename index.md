@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% ![Name-Susha Subramaniaru]%}
+# Susha Subramaniaru
 
 <br>
 
