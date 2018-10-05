@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Susha Subramaniaru
+
+# Susha Subramaniaru #
 
 <br>
 
@@ -12,3 +13,17 @@ layout: default
 
 ![GitHub Profile URL](https://github.com/sushasru)
 
+
+<br>
+
+My **favorite** things
+ 1. Ice Cream
+    - Chocolate
+    - Vanila
+    - Strawberry
+ 2. Cheesecake
+ 3. Peacan Pie
+
+<br>
+
+I *LOVE* **GitHub**
