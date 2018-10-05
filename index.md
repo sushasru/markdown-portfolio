@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-![image of spidertocat](https://octodex.github.com/spidertocat.png)
+![image of hulatocat](https://octodex.github.com/hulatocat.png)
 
 <br>
 
