@@ -2,15 +2,17 @@
 layout: default
 ---
 
-## trying out lists ##
+
+# Susha Subramaniaru #
 
 <br>
 
-![image of hulatocat](https://octodex.github.com/hulatocat.png)
+![Image of spidertocat](https://octodex.github.com/images/spidertocat.png)
 
 <br>
 
-![GitHub URL](https://github.com/)
+![GitHub Profile URL](https://github.com/sushasru)
+
 
 <br>
 
